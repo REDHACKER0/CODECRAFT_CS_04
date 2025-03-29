@@ -37,4 +37,4 @@ License
 
 This project is licensed under the MIT License. Feel free to modify and use it ethically.
 
-Author: MrPradhan
+Author: Mr Pradhan
